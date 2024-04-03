@@ -22,6 +22,9 @@ body {
     max-width: 1200px;width: 100%
     margin: 0 auto
 }
+const tempo objetivo1= new date(2024-07-04T00:00:00:00)
+contadores{0}
+
 
     .titulo-principal {
     text-align: left;
